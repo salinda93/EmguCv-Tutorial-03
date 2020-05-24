@@ -1,0 +1,23 @@
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\concrt140.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\cvextern.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\msvcp140.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\opencv_ffmpeg320_64.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\vcruntime140.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\EmguCv tutorial 03.exe.config
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\EmguCv tutorial 03.exe
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\EmguCv tutorial 03.pdb
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.UI.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.World.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\ZedGraph.dll
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.UI.xml
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\bin\Debug\Emgu.CV.World.xml
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv tutorial 03.csprojAssemblyReference.cache
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv_tutorial_03.Form1.resources
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv_tutorial_03.Properties.Resources.resources
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv tutorial 03.csproj.GenerateResource.cache
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv tutorial 03.csproj.CopyComplete
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv tutorial 03.exe
+D:\Visual Studio 2019 workspace\EmguCv tutorial 03\EmguCv tutorial 03\obj\Debug\EmguCv tutorial 03.pdb
